@@ -1,0 +1,26 @@
+.container{
+   text-align: center;
+   margin-top: 80px;
+}
+
+#colorBox{
+    width: 200px;
+    height: 200px;
+    background-color: tomato;
+    margin: auto;
+}
+
+#changeBtn{
+    margin-top: 20px;
+    background-color: thistle;
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    font-size: medium;
+    font-weight: 700;
+}
+
+#changeBtn:hover{
+    background-color: violet;
+    cursor: pointer;
+}
